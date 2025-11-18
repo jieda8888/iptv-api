@@ -277,3 +277,6 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv$订阅源
 云南卫视,http://221.2.148.205:8154/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+TVB翡翠,http://r.jdshipin.com/ndGgS
+TVB_PULS,https://mytv.cdn.loc.cc/o12.php?id=fct
+TVB无线新闻,http://r.jdshipin.com/CkuBd
