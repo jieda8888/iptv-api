@@ -110,6 +110,8 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 新疆卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
 云南卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+
+📡港澳台,#genre#
 TVB翡翠,http://r.jdshipin.com/ndGgS
 TVB_PULS,https://mytv.cdn.loc.cc/o12.php?id=fct
 TVB_PULS,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
