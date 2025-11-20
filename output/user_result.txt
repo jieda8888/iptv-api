@@ -2,7 +2,7 @@
 2025-11-17 13:41:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+CCTV-1,https://migu.188766.xyz/?migutoken=cab0a099fb214910fdb3e1480b9e9dfc&id=CCTV1&type=yy
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-1,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
@@ -56,16 +56,16 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📡卫视频道,#genre#
 广东卫视,https://migu.188766.xyz/?migutoken=a02f7d0b7a773cf1c612514578efea46&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
-浙江卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
+广东卫视,https://migu.188766.xyz/?migutoken=a02f7d0b7a773cf1c612514578efea46&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+浙江卫视,https://migu.188766.xyz/?migutoken=31ab3ef3ac35f82f7b8548baecb73538&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-湖南卫视,http://122.141.153.64:9004/hls/35/index.m3u8
-湖南卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
-湖南卫视,http://120.197.2.134:9003/hls/32/index.m3u8
+湖南卫视,https://migu.188766.xyz/?migutoken=b826378acdfa4eb7abeb1d1fbc9454c3&id=hnws&type=sz
+湖南卫视,https://migu.188766.xyz/?migutoken=b826378acdfa4eb7abeb1d1fbc9454c3&id=hnws&type=sz
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 北京卫视,http://180.165.12.244:8885/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://124.165.110.143:8899/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://171.116.252.219:9003/hls/20/index.m3u8
-北京卫视,http://122.141.153.64:9004/hls/30/index.m3u8
+北京卫视,https://migu.188766.xyz/?migutoken=3aca4b518ebf795d167c76f40cf5df0f&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 北京卫视,http://120.197.2.134:9003/hls/19/index.m3u8
 湖北卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
 湖北卫视,http://171.116.252.219:9003/hls/32/index.m3u8
@@ -74,7 +74,7 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 安徽卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
 重庆卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
 东方卫视,http://124.165.110.143:8899/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://183.11.239.36:808/hls/114/index.m3u8
+东方卫视,https://migu.188766.xyz/?migutoken=a51add901ae49b636e43d04ced261266&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -85,7 +85,7 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 贵州卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,https://migu.188766.xyz/?migutoken=24647245a9e0cf3fd6b2f63f14fa2765&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 河南卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
@@ -100,10 +100,10 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://pa.kuangdeng.top:8081/hls/23/index.m3u8
 山东卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
-陕西卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
+陕西卫视,https://migu.188766.xyz/?migutoken=405cd3d2782f30fe0fb569c27c56d0ba&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 四川卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8
 深圳卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,https://migu.188766.xyz/?migutoken=87fba6205c84328314b665841490298c&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 天津卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://180.153.168.29:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
