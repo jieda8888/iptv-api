@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-02 01:00:45,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-10-02 09:16:38,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -15,8 +15,8 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 
 📡港澳台,#genre#
-HOY77,https://fast.hidns.vip/163189/hoy$订阅源
 HOY77,https://cdn6.cc.cd/163189/hoy$订阅源
+HOY77,https://fast.hidns.vip/163189/hoy$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
